@@ -1,7 +1,7 @@
 <div align="center">
   
 ## 1337
-[![wel-mjiy's 42 stats](https://badge.mediaplus.ma/Levi /wel-mjiy)](https://github.com/oakoudad/badge42)
+[![wel-mjiy's 42 stats](https://badge.mediaplus.ma/Levi/wel-mjiy)](https://github.com/oakoudad/badge42)
 
 
 ## SKILLS
