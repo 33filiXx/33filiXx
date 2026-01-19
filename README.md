@@ -5,7 +5,7 @@
 
 
 ## SKILLS
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,linux,vim,git,github,vscode,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,linux,vim,git,github,vscode,js,laravel,php,react)](https://skillicons.dev)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=33filiXx)](https://github.com/anuraghazra/github-readme-stats)
 
