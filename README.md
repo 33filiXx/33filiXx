@@ -7,6 +7,6 @@
 ## SKILLS
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,linux,vim,git,github,vscode,js,laravel,php,react)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=33filiXx&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=33filiXx&theme=jolly&show_icons=true)
 
 </div>
